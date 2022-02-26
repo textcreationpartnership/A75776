@@ -1,0 +1,692 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An attest of the housholders within the parish of Buttolphs Aldgate London, unto the innocency of Mr. Zach. Crofton, their present minister and faithfull pastor. VVherein wee acquit our selves from the guilt and odium of prosecuting him. And rescue him from the clamours of incivility charged upon him, to the scandalizing of his name and ministry. Entred according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75776</idno>
+            <idno type="STC">Wing A4158</idno>
+            <idno type="STC">Thomason E909_7</idno>
+            <idno type="STC">ESTC R207489</idno>
+            <idno type="EEBO-CITATION">99866537</idno>
+            <idno type="PROQUEST">99866537</idno>
+            <idno type="VID">118813</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118813)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 137:E909[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An attest of the housholders within the parish of Buttolphs Aldgate London, unto the innocency of Mr. Zach. Crofton, their present minister and faithfull pastor. VVherein wee acquit our selves from the guilt and odium of prosecuting him. And rescue him from the clamours of incivility charged upon him, to the scandalizing of his name and ministry. Entred according to order.</title>
+               </titleStmt>
+               <extent>[8], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for James Nuthall, and are to bee sold at his house in the minories, next door to the Dolphin, and likewise at Book-sellers shops,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first and fourth leaves are blank.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crofton, Zachary, 1625 or 6-1672 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118813:1" rendition="simple:additions"/>
+            <p>AN ATTEST OF THE Houſholders within the Pariſh of <hi>Buttolphs Aldgate London,</hi> Unto the Innocency of Mr. <hi>Zach. Crofton,</hi> their preſent Miniſter and faithfull <hi>PASTOR.</hi> VVherein wee Acquit our ſelves from the Guilt and Odium of pro<g ref="char:EOLhyphen"/>ſecuting Him. And Reſcue him from the Clamours of Incivility charged upon him, to the Scanda<g ref="char:EOLhyphen"/>lizing of his Name and Miniſtry.</p>
+            <q>
+               <bibl>Jer. 18.18.</bibl>
+               <p>Come and let us deviſe Devices againſt <hi>Jere<g ref="char:EOLhyphen"/>miah:</hi> Let us ſmite him with the Tongue, and not give heed to any of his words.</p>
+               <bibl>20.10.</bibl>
+               <p>I heard the defaming of many: Report, ſay they, and wee will Report it.</p>
+            </q>
+            <q>
+               <bibl>Prov. 14.5.</bibl>
+               <p>A falſe Witneſs will utter Lies.</p>
+            </q>
+            <p>Entred according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>James Nuthall,</hi> and are to bee ſold at his houſe in the <hi>Minories,</hi> next door to the <hi>Dolphin,</hi> and likewiſe at Book-ſellers ſhops. 1657.</p>
+         </div>
+         <div type="stationer_to_the_reader">
+            <pb facs="tcp:118813:2"/>
+            <pb facs="tcp:118813:2"/>
+            <head>THE Stationer to the Reader.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ourteous Reader, If thou haſt in thee any mo<g ref="char:EOLhyphen"/>deſty, thou wilt much wonder that the world ſhould ſee theſe enſuing lines; but let mee tell thee, thou mayeſt rather wonder at the immodeſty of ſuch as have occaſioned them, by faſt<g ref="char:EOLhyphen"/>ning with (ſhameful impudeney) a charge of incivility on a man of long approved modeſty, and piety, who is aſha<g ref="char:EOLhyphen"/>med to plead his own cauſe in ſo ſhameful a caſe, by rea<g ref="char:EOLhyphen"/>ſon of which, though hee have ready prepared a full Hi<g ref="char:EOLhyphen"/>ſtory, and Narrative of his late tragedy, and defence a<g ref="char:EOLhyphen"/>gainſt the ſcandals raiſed and caſt abroad concerning him; and though hee hath by many of his Pariſhioners and other friends been importuned to ſend it abroad to ſilence ſlanderous tongues, yet could not bee prevailed with ſo to do, but chuſeth rather to commit his cauſe in ſilence unto God, by reaſon of which, many of his friends conſidering the ſpreadings of this ſcandal, and how it gains credence for want of publick contradiction, did ſee neceſsity of ſpeaking in his behalf, and I living in the Pariſh, having ſeen a ſhort plea for his innocen<g ref="char:EOLhyphen"/>cy, did much deſire it, and by the help of a friend at length, obtained a coppy of the Paper, annexed to this Atteſt, the which I have out of zeal to the credit of his never blemiſhed name, and Miniſtry, and did of my own accord commit thoſe Papers to the Preſs, and ſo ſend it abroad to the view of the World, that
+<pb facs="tcp:118813:3"/> ſo the truth might be vindicated, and innocency cleared, therefore if that it is, not ſo full, or plain as it ſhould bee, nay, and wherein ſoever it fails thy expectati<g ref="char:EOLhyphen"/>on, let him bear the blame, who doubis not but to all juſt unprejudiced men, it wil. clear the innocent man, and put an end to the clamours of men againſt him, to which end hee commends it to thy reading, and Gods bleſsing,</p>
+            <closer>
+               <signed>Who is thy loving Friend, JAMES NUTHALL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118813:3"/>
+            <pb facs="tcp:118813:4"/>
+            <pb n="1" facs="tcp:118813:4"/>
+            <div type="part">
+               <head>AN Atteſtation of the Houſhoulders within the Pariſh of <hi>Buttolph Ald<g ref="char:EOLhyphen"/>gate, LONDON,</hi> Unto the Innocency of Mr. <hi>Zachary Crofton.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">W</seg>EE, the Inhabitants within the Pariſh of <hi>Buttolphs,</hi> without <hi>Aldgate, Lon<g ref="char:EOLhyphen"/>don,</hi> have with a long ſilence (though much ſadneſſe of ſpirit) obſerved the workings of the ſpirits of fury, poſſeſſing the breaſts of ſome diſcontented men a<g ref="char:EOLhyphen"/>mong us, againſt Mr. <hi>Zachary Crofton</hi> our preſent Miniſter; and our ears have heard to our great a<g ref="char:EOLhyphen"/>mazement, the many ſcandals, each after other, by which they have laboured to render him vile among men, nay, and with no little trouble of ſpirit, wee have ſitten ſtill, and ſeen the malicious proſecuti<g ref="char:EOLhyphen"/>on of him, in extraordinary, and extrajudicial courſes; and the violent indeavours to faſten upon him the ſcandal of uncivil whipping <hi>Mary Cadman,</hi> his late ſervant, and then drawing her contrary to her knowledge, and conſcience, falſely to ſwear hee had not ſo uſed her; (An act wee confeſs in the firſt part immodeſt, yet wee much queſtion whether modeſty were more aſſaulted by the act, if done, as repreſen<g ref="char:EOLhyphen"/>ted, or by mens taking cognizance, and making a cla<g ref="char:EOLhyphen"/>mour of it) by all which wee finde our ſaid Miniſter, not only reproached among men, overcredulous, and
+<pb n="2" facs="tcp:118813:5"/> ready to beleeve any thing, that may in this Anti-Miniſterial age, render a Miniſter vile, but alſo the work of God in his hands, to bee in the midſt of us much hindered: Wee conceiving it to bee our duty to deliver our ſelves, as well from the guilt of this tranſaction before God, as from the odium before men (who are ready to cry out, The Pariſh doth this againſt him) cannot but at length break ſilence, and profeſs in the preſence of God and men, that having been ſpectators in the tranſaction of the whole buſineſs, and many of us ear witneſſes to the pleadings and expoſtulations that have been about this matter: Wee are provoked in conſcience to de<g ref="char:EOLhyphen"/>clare our apprehenſion, and give this Atteſtation to his Innocency, as to the whole matter of fact; of which wee could not but bee convinced, when wee ſeriouſly weigh and conſider,</p>
+               <p n="1">1 The ſpirit of diſcontent and inraged ſury; nay, of direct enmity to his Miniſtry, by which hee is proſecuted; the which is ſo viſible to the world, that wee need not) (though wee could) give legible de<g ref="char:EOLhyphen"/>monſtrations of it.</p>
+               <p n="2">2 The poſitive falſhood of the Teſtimony pro<g ref="char:EOLhyphen"/>duced againſt him, there being not onely oath, a<g ref="char:EOLhyphen"/>gainſt oath, and Certificate againſt oath, but alſo witneſſes having before ſome of us and others af<g ref="char:EOLhyphen"/>firmed his Innocency, contrary to what they now charge him withall, and have palpably contradicted the one the other, and ſome of them their very ſelves, in the teſtimony by them given againſt him; the which appears in the annexed Writing, and to the certain truth of which many of us were ear<g ref="char:EOLhyphen"/>witneſſes, ſome of them having ſworne them<g ref="char:EOLhyphen"/>ſelves
+<pb n="3" facs="tcp:118813:5"/> to bee fore-ſworn, and they openly proclaim<g ref="char:EOLhyphen"/>ing themſelves to bee notorious lyars, and perſons upon whoſe teſtimony no credit can, or ought to bee given.</p>
+               <p n="3">3 The conſtant readineſs we found inhim by all honeſt, and juſt amicable wayes to expoſtulate the caſe, and aſſert his innocency, to which end hee did not only adjure them, and himſelf indeavour, to bring it into judgement, and that by the honeſty of men, the credit of a Miniſter, and honour of the govern<g ref="char:EOLhyphen"/>ment of the Commonwealth: But as ſoon as hee heard that the perſons who had acquitted him, were wrought to witneſs againſt him, hee did by ſome of us at ſeveral times offer before twelve honeſt indif<g ref="char:EOLhyphen"/>ferent men, choſen by joynt conſent to plead his cauſe, and truſt his credit on their conſcience and cenſure: this many of us did offer in his behalf, and hee in his own perſon made the ſame tender unto his furious proſecutors, who ſtudied, as wee diſ<g ref="char:EOLhyphen"/>cern more to faſten a ſcandal on him, than to finde out the truth; and therefore did betake themſelves to extraordinary and extrajudicial courſes, and certainly it is truth that ſeeks no corners; falſhood avoids judicial ſcrutiny: Beſides, ſuch hath been the chearfulneſs of his ſpirit unto his conſtant labours, and under ſo ſmarting an affliction, as will not bee found conſiſtent with concealed guilt in his con<g ref="char:EOLhyphen"/>ſcience.</p>
+               <p>The conſtant and ſerious Proteſt of Innocency, as to the whole matter of fact, both to us, and o<g ref="char:EOLhyphen"/>thers, and in the publick aſſembly at the Guild-Hall made by him, a Maſter of a Family unſtained, a man of modeſty to us approved, in his whole demea<g ref="char:EOLhyphen"/>nour,
+<pb n="4" facs="tcp:118813:6"/> a Miniſter of the Goſpel accepted by the Church of God, and of whom wee muſt ſay that hee hath been among us faithful and diligent, in his Miniſtry holy, and unblameable in the courſe of his life, and ſo in his practice, as well as preaching a bleſſing to us from the Lord, who hath rendred him much ſuccesful in his Miniſtry among us: All which conſidered, wee cannot but ſtand by him, and for him, with all zeal, indeavouring the reſcue of his precious name from reproach, deſiring to bee humbled before the Lord that any ſhould ariſe from among us, ſo to defame a godly man, and faith<g ref="char:EOLhyphen"/>ful Miniſter, and deſire others may bee careful how they do take up a report upon falſe witneſſe againſt a man, a Brother, much more an Elder and eminent Miniſter; and conſtantly pray that God may ſanctifie his hand as to him, ſo to us his people, afflicted with him: Teach us to keep our eſteem of him, as of one that wee have found faithful; ariſe to plead his cauſe, and proclaim his innocency to the world, in the mean time incourage his heart, and ſtrengthen his hand unto the work of God among us; Who bleſſe God for him, and rejoyce in his Miniſtry, as a burning and ſhining light.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <head>A Liſt of the Subſcribers names.</head>
+                        <item>
+                           <hi>Richard Garford</hi> Deputie.</item>
+                        <item>
+                           <hi>Rowland Swinnerton</hi> Church<g ref="char:EOLhyphen"/>warden</item>
+                        <item>
+                           <hi>Alexander Green</hi> Church<g ref="char:EOLhyphen"/>warden</item>
+                        <item>
+                           <hi>Edward Mico</hi>
+                        </item>
+                        <item>
+                           <hi>Ralph Cawte</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Manley</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Lewis</hi>
+                        </item>
+                        <item>
+                           <hi>John Green</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Lorret</hi>
+                        </item>
+                        <item>
+                           <hi>Kellum White</hi>
+                        </item>
+                        <pb n="5" facs="tcp:118813:6"/>
+                        <item>
+                           <hi>Roger Thomas</hi>
+                        </item>
+                        <item>
+                           <hi>Edmund Peirſon</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Griffen</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Surbut</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Quick</hi>
+                        </item>
+                        <item>
+                           <hi>James Henks</hi>
+                        </item>
+                        <item>
+                           <hi>Phillip Shipton</hi>
+                        </item>
+                        <item>
+                           <hi>George Ayraye</hi>
+                        </item>
+                        <item>
+                           <hi>William Taylor</hi>
+                        </item>
+                        <item>
+                           <hi>John Hutton</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Guner</hi>
+                        </item>
+                        <item>
+                           <hi>Harman Tivil</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Engliſh</hi>
+                        </item>
+                        <item>
+                           <hi>George Echel</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Thompſon</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Aſell</hi>
+                        </item>
+                        <item>
+                           <hi>John Urdres</hi>
+                        </item>
+                        <item>
+                           <hi>James Reyner</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Duke</hi>
+                        </item>
+                        <item>
+                           <hi>Vincent Izot</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Skinner</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Draycot</hi>
+                        </item>
+                        <item>
+                           <hi>John Barford</hi>
+                        </item>
+                        <item>
+                           <hi>William Shippy</hi>
+                        </item>
+                        <item>
+                           <hi>John Merry</hi>
+                        </item>
+                        <item>
+                           <hi>Charles Elmer</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Sabin</hi>
+                        </item>
+                        <item>
+                           <hi>James Nuthall</hi>
+                        </item>
+                        <item>
+                           <hi>Ralph Brown</hi>
+                        </item>
+                        <item>
+                           <hi>William Burd</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Hardy</hi>
+                        </item>
+                        <item>
+                           <hi>William Leek</hi>
+                        </item>
+                        <item>
+                           <hi>Abraham Venhack</hi>
+                        </item>
+                        <item>
+                           <hi>Paul Dobie</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Smith</hi>
+                        </item>
+                        <item>
+                           <hi>William Beck</hi>
+                        </item>
+                        <item>
+                           <hi>Anthony Smith</hi>
+                        </item>
+                        <item>
+                           <hi>William Rowland</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Winſloe</hi>
+                        </item>
+                        <item>
+                           <hi>Edmund Man</hi>
+                        </item>
+                        <item>
+                           <hi>John Duncombe</hi>
+                        </item>
+                        <item>
+                           <hi>Jonathan Grammar</hi>
+                        </item>
+                        <item>
+                           <hi>William Grammar</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Cox</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Barnard</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Wharton</hi>
+                        </item>
+                        <item>
+                           <hi>William Huchings</hi>
+                        </item>
+                        <item>
+                           <hi>Andrew Crofts</hi>
+                        </item>
+                        <item>
+                           <hi>Ralph Guillum</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Weſtraw</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Ingrame</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Robinſon</hi>
+                        </item>
+                        <item>
+                           <hi>Anthony Hancock</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Kate</hi>
+                        </item>
+                        <item>
+                           <hi>John Bowden</hi>
+                        </item>
+                        <item>
+                           <hi>William Clackſtone</hi>
+                        </item>
+                        <item>
+                           <hi>Stephen Sleigh</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Farſey</hi>
+                        </item>
+                        <item>
+                           <hi>Jonas Awtherſon</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Tanner</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Forreſt</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Dexter</hi>
+                        </item>
+                        <item>
+                           <hi>Antony Woods</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Wadup</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Phillips</hi>
+                        </item>
+                        <item>
+                           <hi>Nathaniel Duckfield</hi>
+                        </item>
+                        <pb n="6" facs="tcp:118813:7"/>
+                        <item>
+                           <hi>Thomas Nettleton</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Lawleſſe</hi>
+                        </item>
+                        <item>
+                           <hi>Timothy Roberts</hi>
+                        </item>
+                        <item>
+                           <hi>William Acton</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Batt</hi>
+                        </item>
+                        <item>
+                           <hi>Nathaniel VVhiting</hi>
+                        </item>
+                        <item>
+                           <hi>Chr. Alley</hi>
+                        </item>
+                        <item>
+                           <hi>Sa. Shakmapel</hi>
+                        </item>
+                        <item>
+                           <hi>Arthur Hancock</hi>
+                        </item>
+                        <item>
+                           <hi>Paul Elwood</hi>
+                        </item>
+                        <item>
+                           <hi>George Spencer</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Rogerſon</hi>
+                        </item>
+                        <item>
+                           <hi>Anthony Trevilion</hi>
+                        </item>
+                        <item>
+                           <hi>Gauwen Armſtead</hi>
+                        </item>
+                        <item>
+                           <hi>John Campion</hi>
+                        </item>
+                        <item>
+                           <hi>Samuel Granger</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Holett</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Davenport</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Hutcheſon</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Partridge</hi>
+                        </item>
+                        <item>
+                           <hi>John Murel</hi>
+                        </item>
+                        <item>
+                           <hi>John Miles</hi>
+                        </item>
+                        <item>
+                           <hi>VVill. Bradford</hi>
+                        </item>
+                        <item>
+                           <hi>John Maſon</hi>
+                        </item>
+                        <item>
+                           <hi>James Hunnyburn</hi>
+                        </item>
+                        <item>
+                           <hi>VVilliam Lecher</hi>
+                        </item>
+                        <item>
+                           <hi>F. Heath</hi>
+                        </item>
+                        <item>
+                           <hi>John Greenhaugh,</hi> alias <hi>Greenaway</hi>
+                        </item>
+                        <item>
+                           <hi>Eleazer Berens</hi>
+                        </item>
+                        <item>
+                           <hi>George Danvers</hi>
+                        </item>
+                        <item>
+                           <hi>Joſeph Stretton</hi>
+                        </item>
+                        <item>
+                           <hi>John Peacock</hi>
+                        </item>
+                        <item>
+                           <hi>Nicholas Adams</hi>
+                        </item>
+                        <item>
+                           <hi>George Powel</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Goſtlin</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Farley</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Bedford</hi>
+                        </item>
+                        <item>
+                           <hi>VVilliam Fletcher</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Hall</hi>
+                        </item>
+                        <item>
+                           <hi>VValter Thomſon</hi>
+                        </item>
+                        <item>
+                           <hi>Timothy Smart</hi>
+                        </item>
+                        <item>
+                           <hi>Abraham Row</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:118813:7"/>
+               <head>Innocency aſſerted, and evidenced by Teſtimonies Falſhood. Or, <hi>Mr. Zach. Crofton</hi> cleared from the Charge of In<g ref="char:EOLhyphen"/>civility by Witneſſes ſelf-contradiction.</head>
+               <p>THe God, whoſe Prerogative Royal it is, to keep his ſervants in a Pavilion from the ſtrife of Tongues; doth ſometimes (to abate their pride, exerciſe their patience, and other holy and wiſe ends) give up his deareſt <hi>Davids</hi> thereunto, who whilſt they ſtudy wiſely to improve the affliction, and cheer themſelves in the teſtimony of their con<g ref="char:EOLhyphen"/>ſcience concerning their Innocency, knowing the ex<g ref="char:EOLhyphen"/>cellency and uſe of a good Name among men, do by all good and juſt means endeavour to manifeſt their Innocency, This being (by the Providence of God) my preſent condition, by reaſon of the ſcandals by the juſt hand of my God; But pride and malice of ungodly men, falſely raiſed, and moſt impudently faſtned on mee, <hi>viz.</hi>
+               </p>
+               <p>That I ſhould uſe <hi>Mary Cadman,</hi> my late ſervant, very uncivilly by Whipping her with Rods, and then by importunity induce her to make oath con<g ref="char:EOLhyphen"/>trary to her knowledge and conſcience, I never ſo u<g ref="char:EOLhyphen"/>ſed her. I having humbly prayed for the ſanctified uſe of ſo ſmarting an affliction; and been ſupported under the ſpreading of ſo great a ſcandal, by the ſenſe of mine own Innocency, am at length con<g ref="char:EOLhyphen"/>ſtrained, to the reſcue of my Name and Miniſtry
+<pb n="8" facs="tcp:118813:8"/> from the reproach of the wicked: And finding none other fence againſt the ſtrife of Tongues, than to prove them falſe; and ſolemnly in the preſence of God, and his people to proteſt mine innocency, do propound to ſerious conſideration theſe things fol<g ref="char:EOLhyphen"/>lowing.</p>
+               <p>Pretermitting the improbability and unlikeli<g ref="char:EOLhyphen"/>hood of ſuch uncivil correction to bee given by mee, a man (whoſe modeſty was never ſtained) a Miniſter of the Goſpel, and that for toyes and trifles; The biting of a Sugar-loaf, Lying in bed too long in a morning, Staying too long for a Pinte of Wine, and the like. Whilſt this very Maid was guilty of moſt notorious crimes, which ſhe never mentioneth: And that in ſo much ſecrecy, in my ſtudy over my wife her bed chamber, and my wife in bed, in a morning. And yet neither wife, or any other ſervant, nurſe, nor any in my Family (which is conſiderably full) ſhould know of it; She ſo ſubmiſſive as never to reſiſt, to take up her own Coats, and lye ſtill in ſilence, whilſt ſhee was whipt with ſuch ſeverity ſhee could not ſit with any eaſe at all after: All which ſeems to mee to bee ſufficient to ſuggeſt to, and convince all men of Modeſty and Reaſon; that it is an imagined Correction, and ſtrained Accuſation, deviſed to render mee vile, rather than really, and by mee acted on this Maid; That which I ſpecially propound, is the poſitive falſhood, of which the Witneſſes impu<g ref="char:EOLhyphen"/>dently faſtening this ſcandal on mee, have been pal<g ref="char:EOLhyphen"/>pably convinced, not onely by others, but by them<g ref="char:EOLhyphen"/>ſelves, and one by the other: As by comparing the Oaths, or Examinations, will appear: As for in<g ref="char:EOLhyphen"/>ſtance,</p>
+               <pb n="9" facs="tcp:118813:8" rendition="simple:additions"/>
+               <p n="1">1 For proof of the fact pretended to bee by mee done, <hi>Mary Cadman,</hi> makes her appeal to <hi>Mary Welch</hi> her fellow-ſervant, pretending ſhee ſhewed her the marks of her correction, and did unto her complain. the ſaid <hi>Mary Welch</hi> hath not onely be<g ref="char:EOLhyphen"/>fore many witneſſes, but alſo on her Oath decla<g ref="char:EOLhyphen"/>red: That <hi>Mary Cadman</hi> never did to her com<g ref="char:EOLhyphen"/>plain of any ſuch uſage, or ſhewed her at any time the marks of her Correction. Nor did ſhee at any time ſpeak of ſuch Correction, to the mother of this <hi>Mary Cadman,</hi> nor <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> knew or heard of ſuch uſage, untill the common report and clamour brought it into my houſe: So that by the Witneſs to whom ſhee makes her appeal, ſhee ſtands pal<g ref="char:EOLhyphen"/>pably convicted of falſhood.</p>
+               <p n="2">2 <hi>William Cadman</hi> the Father of this Maid, ſwears, in Chriſtmaſs laſt was twelve-month, ſhee came home, and told him, that her Mr. <hi>Crofton</hi> had whipt her, <hi>Mary Cotten</hi> ſweareth that at the ſame time ſhee told her the ſame. Yet the Father decla<g ref="char:EOLhyphen"/>red to Mr. <hi>Charles Elmore,</hi> and Mr. <hi>Nath. Whiting,</hi> hee never heard of ſuch uſage of his daughter, and that neither from wife, nor daughter, nor any other perſon, untill Mr. <hi>Crofton</hi> came to him on the common report, and told him of it; and ſaid, hee was confident there was no ſuch thing, and thereof hee would ſwear an hat full of oaths. Nay, and <hi>Mary Cadman</hi> did not onely declare to many when ſhe did affirm this incivility to have been acted on her, that ſhee never ſpake it to any body, ſave her mother, but hath made oath, that ſhee acquainted her mother therewith, and to mee in the hearing of her father, and without the leaſt contradiction by him, when I charged her to have raiſed the report;
+<pb n="10" facs="tcp:118813:9" rendition="simple:additions"/> thee ſaid, I pray God I may never live, if ever I ſpake ſuch a thing; ſo that here you may ſee the pretended Plaintiffe againſt the parties complained to, and the father againſt himſelf.</p>
+               <p n="3">3 <hi>Mary Cadman</hi> ſweareth, ſhee left her ſervice up<g ref="char:EOLhyphen"/>on, and by reaſon of ſuch incivil uſage; yet ſhee her ſelf declared to Mrs. <hi>Stent,</hi> and <hi>Francis Roch</hi> at ſe<g ref="char:EOLhyphen"/>veral times, that ſhee left her ſervice not by reaſon of any fault in either Maſter or Miſtreſs, who were as good ſolks as ſhee could deſire to live withall; but by reaſon of her own <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and by reaſon of <hi>Mary Welch:</hi> 
+                  <note place="margin">And to Mr. Story ſhe ſaid, ſhe left her ſervice becauſe her mother was ſick, and ſhe had rather live with Mr. Croſton, than any man in Eugland, or to that purpoſe.</note> And her father hath declared on his oath, that ſhee told him ſometime before ſhee came away, ſhee was to come from her ſervice, and when ſhee did come away, ſhee came not in any diſcontent. And her mother did quarrel, and fall out with Mr. <hi>Crofton</hi> for putting away her daughter. So that even now you had the daughters oath againſt the fathers, and now you have the fathers againſt the daughter: In the next you ſhall ſee the father a<g ref="char:EOLhyphen"/>gainſt himſelf.</p>
+               <p n="4">4 The Father ſwears hee brought his Daughter back to her Maſter, and bad him if ſhee offended to take a Wand and wand his daughter, and her Ma<g ref="char:EOLhyphen"/>ſter gave no other anſwer, but that hee would have no ſuch Tales carried out of the houſe, by which hee ſubtilly ſuggeſts that hee did to mee complain of Whipping his daughter, and ſo all men do, and muſt underſtand it; yet hee hath ſworn on his exa<g ref="char:EOLhyphen"/>mination that at the time hee bad mee wand his daughter, hee ſpake not a word, or did hee com<g ref="char:EOLhyphen"/>plain of whipping his daughter, nor had wee any diſcourſe of any ſuch thing.</p>
+               <pb n="11" facs="tcp:118813:9"/>
+               <p n="5">5 <hi>Mary Cadman</hi> ſwears, that I whipt her when ſhee was under the iſſue of blood; yet <hi>Alice Grible</hi> on her oath declares that ſhee denyed it ever to bee acted on her, ſhee being under ſuch a condition; <note place="margin">The ſame ſhee ſaid to Francis Roch.</note> and further ſaith, <hi>Mary</hi> told her this was the invention of the Proſecutors.</p>
+               <p n="6">6 And laſtly, as to the whole matter of fact, this Maid <hi>Mary Cadman</hi> ſaid to <hi>Sarah Wilkin,</hi> asking her if her Maſter had whipt her, it is a lye whoever ſaid it; and to <hi>Sarah Auſten</hi> ſhee ſaid ſhee was aſham<g ref="char:EOLhyphen"/>ed, they ſhould raiſe ſuch a report of the Good man, for there was never any ſuch thing. And theſe were her companions, and thus ſhee anſwered them, when the thing was muttered, before it came to my ears. Moreover ſhee hath mode oath, that in all the time ſhee lived with Mr. <hi>Crofton,</hi> ſhee was ne<g ref="char:EOLhyphen"/>ver whipt (as is reported) And that hee never did to her the leaſt act of violence or immodeſty: And the Patents certified under their hands, they never knew of any ſuch uſage of their Daughter, and that on deliberation before Alderman <hi>Burdet,</hi> and Al<g ref="char:EOLhyphen"/>derman <hi>Garford,</hi> the Mother binding the teſtimony with that affeveration, as ſhee was a ſick dying woman; and this they do not in a comparative ſenſes the which the quibling fancies of proſecuting ene<g ref="char:EOLhyphen"/>mies, who would gladly faſten ſomewhat, would put upon it.</p>
+               <p>But a poſitive plain and ſimple ſenſe and meaning as is evident by their contrary oaths, ſo that herein you have oath againſt oath, and certificate againſt oath; and in reference to theſe the Father ſwears himſelf, Wife and Daughter, all to bee forſworn; In the oaths by them ſworn, before the Mr. of
+<pb n="12" facs="tcp:118813:10" rendition="simple:additions"/> Chancery they all ſwear, that by my powerful in<g ref="char:EOLhyphen"/>couragements and importunity, they did make oath, and certifie, I did whip her. Yet the Father on his oath deelared, when I propounded to them the oath and certificate for my vindication, they never deny ed to ſign them, they never demurred to them, they never excepted againſt them, I never reminded them of paſt kindneſſes, nor promiſed them future fa<g ref="char:EOLhyphen"/>vours, nor urged them by any Argument: was not here violent importunity, where was no denial; and very forcible perſwaſion, where was no Argu<g ref="char:EOLhyphen"/>ment.</p>
+               <p>So that beſides that lying ſpirit which in a conſtant courſe acted this Maid, yea, and her Father and Mother (and that in her dying condition of which I can give inſtance) of which not only I, but alſo Mr. <hi>Rutton</hi> Miniſter of <hi>Bow,</hi> Mr. <hi>Newton</hi> at the Cam<g ref="char:EOLhyphen"/>mel in <hi>Fanchurch</hi> ſtreet, Mris. <hi>Ames</hi> in <hi>Gratious</hi>-ſtreet, and all that ever knew her do complain: you ſee they are clearly convict of falſe oaths, and a lying tongue, <note place="margin">If there were ſuch a ſtory and perſon.</note> and if <hi>Suſanna</hi> were acquitted by the contradiction of her Accuſers in one circumſtance, ſhall not I bee acquitted by the contradiction of themſelves, and one of another in matters of ſub<g ref="char:EOLhyphen"/>ſtance; to which let mee add, they inſtance but in one time conſiderable, and that is <hi>Chriſtmas</hi> was twelve month; When I was in an exceeding infirm and weak condition, without either lift or liberty to ſuch an action, being afflicted with the Stone, and Jaunders, the which diſtempers, though much weakening mee, yet admitting ſome entervails of eaſe, did now and then give liberty of creeping on a ſtaffe, on buſineſſe of concernment, though with
+<pb n="13" facs="tcp:118813:10"/> very much difficulty. And I do as a Miniſter of the goſpel in the preſence of God, declare that by rea<g ref="char:EOLhyphen"/>ſon of theſe diſtempers, to the utmoſt of my know<g ref="char:EOLhyphen"/>ledge and remembrance, on recollected thoughts, I was not on any occaſion whatſoever in my ſtudy from the fourteenth of <hi>December,</hi> until after the twentieth of <hi>February:</hi> And therefore in that place, and in this time, I could not give this Maid any ſuch correcti<g ref="char:EOLhyphen"/>on.</p>
+               <p>The falſity of this Teſtimony is ſo plain and vi<g ref="char:EOLhyphen"/>ſible, that I hope in the judgement of every un<g ref="char:EOLhyphen"/>prejudiced man, I ſhall bee acquitted, though I ſhould ſay no more, yet becauſe ſome pretend my conceſſion of the act, and the affidavit of the dead Mother, doth thereby indeavour to faſten on mee the ſcandal of this fact; though it is convict of falſhood in one thing by <hi>Mary Welch,</hi> in another by the ſurviving Father, and ſo ought not to bee credi<g ref="char:EOLhyphen"/>ted in the third (which lyeth between her and mee) and for that ſome can ſtirre up a jealouſie of guilt, by pretending hee waves the charge, by diſproving, but doth not deny the fact: I think fit, though I am tender of folemn proteſts in the name of the great God, which wee are much to dread; yet to the ſtopping of the mouthes of flanderous men, and ſatisfaction of ſuch as ſhall beleeve truth, and the fear of my God to bee in mee. I do make this ſerious profeſſion, I <hi>Zachary Crofton,</hi> of the Pariſh of <hi>Buttolphs Aldgate, London,</hi> do as a Miniſter of the Goſ<g ref="char:EOLhyphen"/>pel, in the preſence of the God of truth, ſolemnly, and with all ſeriouſneſſe profeſſe, that I never did with Rod, or Rods on any occaſion, or at any time, whip <hi>mary Cadman</hi> my late Servant: The Father
+<pb n="14" facs="tcp:118813:11"/> and the Mother of the ſaid <hi>Mary Cadman,</hi> nor either of them, never did to me at any time complain of any ſuch uſage; nor did I ever declare to them, or either of them, that I had whipt their ſaid Daughter, nor did I ever render any ſuch reaſon as is pretended for ſuch correction, nor did I in the whole courſe of my life, ever hear or know of any ſuch miſ-hap as is pretended to befal my Mother in the correcti<g ref="char:EOLhyphen"/>on of any ſervant of hers, nor have I ever had any communication or diſcourſe with any man about the whipping of the ſaid <hi>Mary Cadman,</hi> until ſuch time as the rumour of ſuch a thing being common, came unto my ears, ſince which time I have with con<g ref="char:EOLhyphen"/>ſtancie; and to all men with whom I have ſpoken, aſſerted and declared mine innocencle, as to the whole matter of fact pretended againſt mee.</p>
+               <p>So that if the falſity of witneſſes, which ought to acquit any man accuſed among men, and to ſilence all ſlanderous reports, bee conſidered: Or if you will give credit to mee, a Maſter of a family this twelve year, or thereabouts, never ſtained with the leaſt diſorder or incivility. A Miniſter of the Goſ<g ref="char:EOLhyphen"/>pel, approved and accepted this fourteen years, by the people of God: I hope I ſhall bee diſcharged this charge of Incivility, and bee adjudged inno<g ref="char:EOLhyphen"/>cent, notwithſtanding all clamours that have paſt. But if not, I ſhall ceaſe to ſtrive any longer by words, and ſtudy ſubmiſſion under, and a ſanctified improvement of Gods hand, ſaying with <hi>David</hi> God hath bid <hi>Shimei</hi> curſe, and waith until the Lord ſhall plead my cauſe againſt all ſuch as are riſen up againſt mee, rejoycing in this mine innocency, and that the faithful diſcharge of my Miniſterial duty is
+<pb n="15" facs="tcp:118813:11"/> the ground and reaſon of this reproach and ſlan<g ref="char:EOLhyphen"/>der.</p>
+               <p>Wee whoſe names are ſubſcribed Citizens of <hi>London,</hi> and frequent attendants on the Miniſtry of Mr. <hi>Zachary Crofton;</hi> having (with much grief) heard the many clamours, and reproachful ſpeeches by which ſome diſcontented men (in his Pariſh) have laboured to render him vile, and obſerved the ſpirit of fury, with much height of impudence, indeavouring to faſten on him the ſcandal, of uſing <hi>Mary Cadman</hi> his late Servant very uncivilly, by whipping her with Rods, and then drawing her, contrarie to her knowledge and conſcience, fallely to ſwear ſhee was never ſo uſed: on our know<g ref="char:EOLhyphen"/>ledge of his modeſty in his whole demeanour, fi<g ref="char:EOLhyphen"/>delity in his Miniſtry, and piety in the courſe of his life; and having many of us been ſpectators and hearers in the expoſtulations that of late have been about this buſineſſe, and having ſeriouſly weighed the palpable falſhood of produced teſtimony, and its poſitive contradiction of it ſelf, together with his ſolemn proteſt of Innocency, cannot but apprehend and atteſt his Innocency, as to the whole matter of fact; and declare the ſame; not doubting but to all impartial, juſt, and unprejudiced men, his Innocen<g ref="char:EOLhyphen"/>cy will bee evident to the reſcue of his name from reproach, and the rendring him no leſſe acceptable in his Miniſtry, than hee hath been for many years paſt, and yet is unto us.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <head>The Liſt of the Subſcribers follow.</head>
+                        <pb n="16" facs="tcp:118813:12"/>
+                        <item>
+                           <hi>Charles Off-ſpring</hi> Miniſter of St. <hi>Antholins</hi>
+                        </item>
+                        <item>
+                           <hi>Daniel Andrews</hi>
+                        </item>
+                        <item>
+                           <hi>Stephen White</hi>
+                        </item>
+                        <item>
+                           <hi>John White</hi>
+                        </item>
+                        <item>
+                           <hi>John Gregory</hi>
+                        </item>
+                        <item>
+                           <hi>John Hetherley</hi>
+                        </item>
+                        <item>
+                           <hi>John Jackſon</hi>
+                        </item>
+                        <item>
+                           <hi>George Maio</hi>
+                        </item>
+                        <item>
+                           <hi>Iſaac Ligay</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Smith</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Rutt</hi>
+                        </item>
+                        <item>
+                           <hi>Joſhua Gearing</hi>
+                        </item>
+                        <item>
+                           <hi>William Sheldon</hi>
+                        </item>
+                        <item>
+                           <hi>Alexander Sharp</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Clerk</hi>
+                        </item>
+                        <item>
+                           <hi>VVill. Webb</hi>
+                        </item>
+                        <item>
+                           <hi>Matth. String</hi>
+                        </item>
+                        <item>
+                           <hi>Will. String</hi>
+                        </item>
+                        <item>
+                           <hi>Ralph Thicknoſs</hi>
+                        </item>
+                        <item>
+                           <hi>Rich. Pepys</hi>
+                        </item>
+                        <item>
+                           <hi>Peter Jurin</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Boughey</hi>
+                        </item>
+                        <item>
+                           <hi>Benja. Proud</hi>
+                        </item>
+                        <item>
+                           <hi>Roger Nettleſhip</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Clendon</hi> Miniſter of <hi>Allhallows Barking</hi>
+                        </item>
+                        <item>
+                           <hi>VVill. Chiſworth</hi> Church<g ref="char:EOLhyphen"/>warden</item>
+                        <item>
+                           <hi>Ed. Mitton</hi> Church<g ref="char:EOLhyphen"/>warden</item>
+                        <item>
+                           <hi>Thomas Mullineux</hi>
+                        </item>
+                        <item>
+                           <hi>Roger Alſop</hi>
+                        </item>
+                        <item>
+                           <hi>VVil. Allen</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Low</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Abrahall</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Graves</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Spiar</hi>
+                        </item>
+                        <item>
+                           <hi>George Dickens</hi>
+                        </item>
+                        <item>
+                           <hi>John Bellamy</hi>
+                        </item>
+                        <item>
+                           <hi>will. Hiott</hi>
+                        </item>
+                        <item>
+                           <hi>James Hichſon</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Hunter</hi>
+                        </item>
+                        <item>
+                           <hi>James Man</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Roe</hi>
+                        </item>
+                        <item>
+                           <hi>Adam Edwards</hi>
+                        </item>
+                        <item>
+                           <hi>Rob. Lewellin</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Davis</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
